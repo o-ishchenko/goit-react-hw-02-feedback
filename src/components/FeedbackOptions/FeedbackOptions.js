@@ -1,5 +1,4 @@
 import React from "react";
-import s from './FeedbackOptions.module.css'
 
 function FeedbackOptions({ options, onLeaveFeedback }) {
     return (
